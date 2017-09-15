@@ -4,6 +4,8 @@ To measure contextual expectations in humans, we asked subjects to indicate the 
 
 Preprint:https://arxiv.org/abs/1611.07218 This release has the visual features, images, behavioural data and analysis code to generate figures in the paper.
 
+Images, extracted visual features and behavioural data from human experiments will be made available soon.
+
 Please email harish2006@gmail.com for more details or queries.
 
 All the code, data, images and visual features are made availalble purely for research purposes and should not be used for commercial gain.
