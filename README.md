@@ -4,7 +4,7 @@ To measure contextual expectations in humans, we asked subjects to indicate the 
 
 Preprint:https://arxiv.org/abs/1611.07218 This release has the visual features, images, behavioural data and analysis code to generate figures in the paper.
 
-Images, extracted visual features and behavioural data from human experiments will be made available soon.
+Images, extracted visual features and behavioural data from human experiments are availalbe in this single zip file https://drive.google.com/open?id=0Bxtn3jm1AI_dTElhVWxqS1RTV1U. Please extract this into the same directory as the rest of the MATLAB source files.
 
 Please email harish2006@gmail.com for more details or queries.
 
